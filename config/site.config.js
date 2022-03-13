@@ -53,8 +53,8 @@ module.exports = {
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
     {
-      name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      name: 'fa-thin fa-blog',
+      link: 'https://fat-old-eight.github.io',
     },
   ],
 
