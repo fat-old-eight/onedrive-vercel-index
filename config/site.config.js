@@ -1,4 +1,4 @@
-/**
+﻿/**
  * This file contains the configuration used for customising the website, such as the folder to share,
  * the title, used Google fonts, site icons, contact info, etc.
  */
@@ -53,7 +53,7 @@ module.exports = {
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
     {
-      name: 'fa-thin fa-blog',
+      name: 'Blog',
       link: 'https://fat-old-eight.github.io',
     },
   ],
